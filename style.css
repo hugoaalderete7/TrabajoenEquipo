@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 115px;
+    /*background-color: aqua;*/
+}
+#cabeza{
+    position: relative;
+    margin-top: 10px;
+    left: 550px;
+    height: 115px;
+    width: 115px;
+    background-color:yellowgreen;
+    font-size: 13px;
+}
+#ojoi{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 30px;
+    left: 20px;
+    background-color: red;
+    text-align: center;
+}
+#boca{
+    position: absolute;
+    left: 22.5px;
+    bottom: 30px;
+    width: 70px;
+    height: 15px;
+    background-color:darkgoldenrod;
+}
+#ojod{
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    top: 30px;
+    right: 20px;;
+    background-color: red;
+    text-align:center;
+}
+#cuerpo{
+    position: relative;
+    height: 260px;
+    /*background-color: aqua;*/
+}
+#torso{
+    position: absolute;
+    left: 500px;
+    height: 260px;
+    width: 220px;
+    background-color: yellowgreen;
+    font-size: 13px;
+}
+#brazoi{
+    position: absolute;
+    left: 437px;
+    height: 230px;
+    width: 60px;
+    background-color: yellowgreen;
+    font-size: 13px;
+}
+#brazod{
+    position: absolute;
+    left: 723px;
+    height: 230px;
+    width: 60px;
+    background-color: yellowgreen ; 
+    font-size: 13px; 
+}
+#piernas{
+    position: relative;
+    height: 210px;
+    /*background-color: aqua;*/
+}
+#piernai{
+    position: absolute;
+    top: 5px;
+    left: 515px;
+    width: 65px;
+    height: 200px;
+    background-color:  yellowgreen;
+    font-size: 13px;
+}
+#piernad{
+    position: absolute;
+    top: 5px;
+    left: 640px;
+    width: 65px;
+    height: 200px;
+    background-color:  yellowgreen;
+    font-size: 13px;
+}
